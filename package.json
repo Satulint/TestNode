@@ -1,0 +1,19 @@
+{
+  "name": "myfirstapplication",
+  "version": "1.0.0",
+  "description": "This is my first application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "first",
+    "application"
+  ],
+  "author": "Satu",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
